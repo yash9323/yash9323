@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/bhutoriayash1999)
+[Leetcode Stats](https://leetcard.jacoblin.cool/bhutoriayash1999)
 
 <!--
 **yash9323/yash9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
