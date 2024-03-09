@@ -1,9 +1,9 @@
 ### Hi there 👋
+![Leetcode Stats]([https://leetcard.jacoblin.cool/bhutoriayash1999](https://leetcard.jacoblin.cool/bhutoriayash1999?theme=dark&font=Rammetto%20One))
 
 
 <!--
 **yash9323/yash9323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Leetcode Stats](https://leetcard.jacoblin.cool/bhutoriayash1999)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
