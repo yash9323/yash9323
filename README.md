@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Leetcode Stats]([https://leetcard.jacoblin.cool/bhutoriayash1999](https://leetcard.jacoblin.cool/bhutoriayash1999?theme=dark&font=Rammetto%20One))
+![]([https://leetcard.jacoblin.cool/bhutoriayash1999](https://leetcard.jacoblin.cool/bhutoriayash1999?theme=dark&font=Rammetto%20One))
 
 
 <!--
